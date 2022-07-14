@@ -91,7 +91,7 @@ Para la resistencia de 1kΩ
 
 **Grafique la curva Potencia vs RL y comente.**
 
-![image](https://user-images.githubusercontent.com/105570939/178933069-1ae23428-396d-4536-abe6-d2969161b064.png)
+![image](https://user-images.githubusercontent.com/105570939/178982748-7aa2e0af-9d85-4199-9aac-9e9719e74f5a.png)
 
 **Calculodel error.**
 
