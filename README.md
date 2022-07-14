@@ -35,9 +35,7 @@ En este punto se contestará todo lo planteado en las guías.
 
 5. VIDEO
 
-Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto.
-En el video se debe explicar 4 ejercicios o problemas.
-
+https://youtu.be/8FRASmBufjU
 
 6. CONCLUSIONES
 
