@@ -35,7 +35,7 @@ En este punto se contestará todo lo planteado en las guías.
 
 5. VIDEO
 
-https://youtu.be/8FRASmBufjU
+
 
 6. CONCLUSIONES
 
