@@ -37,7 +37,7 @@ Adicionalmente para el caso de diagramas el√©ctricos se debe hacer la explicaci√
 
 5. VIDEO
 
-
+https://youtu.be/8FRASmBufjU
 
 6. CONCLUSIONES
 
