@@ -17,8 +17,6 @@ Objetivos especificos
 ![image](https://user-images.githubusercontent.com/105679480/178907570-cd8e42eb-c4db-4ecb-a6a2-be84be304068.png)
 ![image](https://user-images.githubusercontent.com/105679480/178907600-3a99c5d9-a5e8-4863-962a-70ec9f5e711f.png)
 
-
-
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
 ![image](https://user-images.githubusercontent.com/105570939/178922540-5040896e-d8f9-4ee8-91c5-f955e0664316.png)
@@ -53,6 +51,27 @@ Objetivos especificos
 
 ![image](https://user-images.githubusercontent.com/105570939/178927632-20dfe598-5709-4257-88b0-7f3ea5fa3fb6.png)
 
+**Mida la potencia empleando un vatímetro en el software ACDCLAB en RL y anote los resultados en la tabla.**
+
+![image](https://user-images.githubusercontent.com/105570939/178934625-ae64f845-b48e-49ec-b8fd-1e625ac36de2.png)
+
+![image](https://user-images.githubusercontent.com/105570939/178934690-7e22fe53-6c4d-476c-9aa6-d157fa040577.png)
+
+![image](https://user-images.githubusercontent.com/105570939/178934747-15025c5e-e37c-4775-bbd1-afca4b330c71.png)
+
+![image](https://user-images.githubusercontent.com/105570939/178934785-279db731-4b83-4d0c-95fd-68d31f1d1831.png)
+
+![image](https://user-images.githubusercontent.com/105570939/178934826-618ed4d9-4fab-402f-9aa3-ced9d97f97d6.png)
+
+![image](https://user-images.githubusercontent.com/105570939/178934858-ee205e21-1250-4017-9382-08a828728fde.png)
+
+![image](https://user-images.githubusercontent.com/105570939/178934895-ac2a7f91-728e-4be3-931a-54667f460510.png)
+
+![image](https://user-images.githubusercontent.com/105570939/178934944-dd7838ad-fb8e-4840-9f42-41e47a50e9dc.png)
+
+![image](https://user-images.githubusercontent.com/105570939/178934968-9a6231d7-1377-4739-8b19-127e0fe24e89.png)
+
+![image](https://user-images.githubusercontent.com/105570939/178934988-4c401763-cde6-49ee-8739-62f162600ce5.png)
 
 4.RESPUESTAS A INTERROGANTES
 
@@ -72,10 +91,11 @@ Para la resistencia de 1kΩ
 
 **Grafique la curva Potencia vs RL y comente.**
 
+![image](https://user-images.githubusercontent.com/105570939/178933069-1ae23428-396d-4536-abe6-d2969161b064.png)
 
+**Calculodel error.**
 
-
-
+![image](https://user-images.githubusercontent.com/105570939/178934022-c29a2434-6aad-4e40-a876-94d6efe2fba4.png)
 
 5. VIDEO
 
