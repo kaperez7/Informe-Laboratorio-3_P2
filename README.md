@@ -3,7 +3,13 @@
 
 1. OBJETIVOS
 
+Comprobar experimentalmente el Teorema de la Máxima Transferencia de Potencia, mediante el armado y modelado de un circuito en el sofware tinkercad, para realizar mediciones con el multimetro.
 
+Objetivos especificos
+
+* Determinar la maxima transferencia de Potencia probando con 10 resistencia propuestas.
+* Explicar en qué consiste el Teorema de la Máxima Transferencia de Potencia.
+* Comprender que el teorema de la máxima transferencia de potencia, se deriva del teorema de Thevenin y el de Norton.
 
 2. MARCO TEÓRICO 
 
@@ -39,6 +45,15 @@
 
 ![10](https://user-images.githubusercontent.com/105570939/178924691-b921bb4d-b6ac-4512-998a-bf451338c3fd.jpeg)
 
+**Calcule la potencia consumida por RL, para cada valor dado y anote los resultados en la tabla.**
+
+![image](https://user-images.githubusercontent.com/105570939/178927309-46d2828c-6a69-43e5-8471-895fae7dbc63.png)
+
+![image](https://user-images.githubusercontent.com/105570939/178927374-1dfd384b-1431-40f7-ab9f-8a5188ebd55c.png)
+
+![image](https://user-images.githubusercontent.com/105570939/178927632-20dfe598-5709-4257-88b0-7f3ea5fa3fb6.png)
+
+
 4.RESPUESTAS A INTERROGANTES
 
 ![tabla](https://user-images.githubusercontent.com/105570939/178921190-8d274942-8899-455a-bc87-5cfb810c7965.png)
@@ -68,9 +83,9 @@ https://youtu.be/8FRASmBufjU
 
 6. CONCLUSIONES
 
-
-
-
+* EL teorema de la Máxima Transferencia de Potencia consiste en demostrar que al implementar en un circuito una resistencia con el mismo o semejante valor a la resistencia de la fuente la potencia alcanza su máximo valor.
+* Al medir todas las potencias mediante las resistencias propuestas se concluyo facilmente que 1kΩ es con quien se obtiene la maxima transferencia de potencia.
+* El reducir un circuito complejo a una fuente y resistencia de Thévenin nos ayuda para poder determinar más rápido la transferencia de potencia hacia un resistor.
 
 7. BIBLIOGRAFÍA
 
